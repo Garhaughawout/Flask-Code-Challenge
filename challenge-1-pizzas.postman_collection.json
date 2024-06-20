@@ -49,7 +49,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:5555/restaurants/1",
+					"raw": "http://localhost:5555/restaurants/2",
 					"protocol": "http",
 					"host": [
 						"localhost"
